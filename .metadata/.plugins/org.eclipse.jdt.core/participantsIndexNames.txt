@@ -1,0 +1,5 @@
+INDEX VERSION 1.132
+D:\Study\Java\Projects\Java Advance Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2389236961.index
+\NoteTaker\src\main\resources
+D:\Study\Java\Projects\Java Advance Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3913414311.index
+\NoteTaker\src\main\java
