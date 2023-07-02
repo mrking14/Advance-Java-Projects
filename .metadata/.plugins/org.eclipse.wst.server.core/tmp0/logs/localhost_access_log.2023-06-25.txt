@@ -134,3 +134,7 @@
 0:0:0:0:0:0:0:1 - - [25/Jun/2023:22:50:45 +0530] "POST /NoteTaker/SaveNoteServlet HTTP/1.1" 200 -
 0:0:0:0:0:0:0:1 - - [25/Jun/2023:22:50:52 +0530] "POST /NoteTaker/SaveNoteServlet HTTP/1.1" 200 -
 0:0:0:0:0:0:0:1 - - [25/Jun/2023:22:53:54 +0530] "GET /NoteTaker/index.jsp HTTP/1.1" 200 1897
+127.0.0.1 - - [25/Jun/2023:23:05:32 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:23:05:33 +0530] "GET /NoteTaker/ HTTP/1.1" 200 1897
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:23:05:38 +0530] "GET /NoteTaker/add_notes.jsp HTTP/1.1" 200 2439
+0:0:0:0:0:0:0:1 - - [25/Jun/2023:23:06:06 +0530] "POST /NoteTaker/SaveNoteServlet HTTP/1.1" 500 22028
